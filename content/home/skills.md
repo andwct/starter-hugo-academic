@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 8-month internship as an solutions architect in Taipei
+  icon: aws
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: AWS
+- description: experienced in data driven end-to-end projects
+  icon: brain
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Machine Learning
+- description: experienced in leading group projects
+  icon: users
   icon_pack: fas
-  name: Photography
+  name: Strong Leadership
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -43,4 +43,8 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["160px", "0", "20px", "0"]
 ---
