@@ -60,7 +60,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume_8.pdf
+  link: uploads/Anderson_Wu_resume_2025_v1.1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "andwctneuro@gmail.com"
@@ -74,4 +74,4 @@ I'm an industrious and agile self-starter with diverse experiences in data drive
 ---
 
 
-{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/resume_8.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/Anderson_Wu_resume_2025_v1.1.pdf" "newtab" >}}resumé{{< /staticref >}}.
